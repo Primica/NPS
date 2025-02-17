@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/arp.c.o -c /Users/arthurmalfere/Developer/NPS/src/arp.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/arp.c",
+  "output": "CMakeFiles/NPS.dir/src/arp.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/dns_server.c.o -c /Users/arthurmalfere/Developer/NPS/src/dns_server.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/dns_server.c",
+  "output": "CMakeFiles/NPS.dir/src/dns_server.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/main.c.o -c /Users/arthurmalfere/Developer/NPS/src/main.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/main.c",
+  "output": "CMakeFiles/NPS.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/net_interface.c.o -c /Users/arthurmalfere/Developer/NPS/src/net_interface.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/net_interface.c",
+  "output": "CMakeFiles/NPS.dir/src/net_interface.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/tcp_connection.c.o -c /Users/arthurmalfere/Developer/NPS/src/tcp_connection.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/tcp_connection.c",
+  "output": "CMakeFiles/NPS.dir/src/tcp_connection.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/tcp_timer.c.o -c /Users/arthurmalfere/Developer/NPS/src/tcp_timer.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/tcp_timer.c",
+  "output": "CMakeFiles/NPS.dir/src/tcp_timer.c.o"
+},
+{
+  "directory": "/Users/arthurmalfere/Developer/NPS/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/NPS.dir/src/tcp_utils.c.o -c /Users/arthurmalfere/Developer/NPS/src/tcp_utils.c",
+  "file": "/Users/arthurmalfere/Developer/NPS/src/tcp_utils.c",
+  "output": "CMakeFiles/NPS.dir/src/tcp_utils.c.o"
+}
+]
